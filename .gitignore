@@ -1,0 +1,10 @@
+*.classpath
+*.project
+REST/JAX-RS-test01/.settings/.jsdtscope
+REST/JAX-RS-test01/.settings/org.eclipse.core.resources.prefs
+*.prefs
+REST/JAX-RS-test01/.settings/org.eclipse.wst.common.component
+*.xml
+REST/JAX-RS-test01/.settings/org.eclipse.wst.jsdt.ui.superType.container
+*.name
+REST/JAX-RS-test01/WebContent/META-INF/MANIFEST.MF
